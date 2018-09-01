@@ -7,7 +7,10 @@ package com.github.zhangkaitao.shiro.chapter2;
  * <p>Date: 14-1-25
  * <p>Version: 1.0
  */
-public class LoginLogoutTest {5445y
+public class LoginLogoutTest {
 
-   afwfwqffffffffffffffffffffffffgntsyjnsrt
+ public static void main(String[] args) {
+	System.out.println("测试");
+	System.out.println("测试");
+}
 }
